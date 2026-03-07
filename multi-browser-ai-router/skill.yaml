@@ -1,8 +1,8 @@
 ---
 # skill.yaml — OpenClaw Skill 配置
-# 放置于 <workspace>/skills/multi-ai-router/ 目录
+# 放置于 <workspace>/skills/multi-browser-ai-router/ 目录
 
-name: multi-ai-router
+name: multi-browser-ai-router
 version: "1.0.0"
 description: >
   将用户的问题路由到 ChatGPT、Gemini、Grok、Perplexity、Claude 等 AI 的

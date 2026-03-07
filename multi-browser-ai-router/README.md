@@ -4,7 +4,7 @@
 
 ```bash
 # 1. 将此目录复制到 OpenClaw workspace 的 skills 文件夹
-cp -r ./multi-ai-router ~/.openclaw/workspace/skills/
+cp -r ./multi-browser-ai-router ~/.openclaw/workspace/skills/
 
 # 2. 创建 session 存储目录
 mkdir -p ~/.openclaw/ai-sessions

@@ -1,11 +1,11 @@
 #!/usr/bin/env node
 /**
- * multi-ai-router.js
+ * multi-browser-ai-router.js
  * OpenClaw Skill — 将问题路由到各大 AI 网页端
  * 
  * 用法:
- *   node multi-ai-router.js --platform chatgpt --question "你的问题"
- *   node multi-ai-router.js --platform gemini  --question "你的问题"
+ *   node multi-browser-ai-router.js --platform chatgpt --question "你的问题"
+ *   node multi-browser-ai-router.js --platform gemini  --question "你的问题"
  */
 
 import { execSync, exec } from 'child_process';
@@ -329,7 +329,7 @@ async function main() {
   }
 
   if (!question) {
-    console.error('用法: node multi-ai-router.js --platform <name> --question "<问题>"');
+    console.error('用法: node multi-browser-ai-router.js --platform <name> --question "<问题>"');
     process.exit(1);
   }
 
