@@ -41,8 +41,8 @@ const PLATFORMS = {
   },
   grok: {
     name: 'Grok',
-    url: 'https://x.com/i/grok',
-    loginUrl: 'https://x.com/login',
+    url: 'https://grok.com',
+    loginUrl: 'https://grok.com',
     inputSelector: "[data-testid='grok-input']",
     stopSelector: "[aria-label='Stop']",
     responseSelector: "[data-testid='grok-message']",

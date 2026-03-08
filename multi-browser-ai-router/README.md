@@ -1,3 +1,4 @@
+
 # 安装与使用指南
 
 ## 一、安装 Skill
@@ -25,7 +26,7 @@ openclaw gateway restart
 打开 Chrome，访问以下网址，确认已登录：
 - https://chatgpt.com
 - https://gemini.google.com  
-- https://x.com/i/grok
+- https://grok.com
 - https://perplexity.ai
 
 ### 保存各平台 session
